@@ -15,5 +15,6 @@ Additionally, there are pictures of the design and Morphological analysis.
 
 ---
 **Task 3.0**
+A fashioned Tablet stand with multiple features such as charger and adjustability is provided as an STL files in ***Tablet stand folder*** .
 
-
+Moreover, there are pictures of the design and Morphological analysis.
